@@ -1,0 +1,23 @@
+@CHARSET "UTF-8";
+
+body {
+	fontSize: 50px;
+	font : Arial, bold, sans-serif;
+	font-style: inherit;
+	background-repeat: no-repeat;
+	background-position: inherit;
+	background-image: url(../img/16641626.jpg);
+}
+
+nav li {
+	display : inline;
+}
+
+.main {
+	text-align: center;
+	text-decoration: underline overline; 
+}
+
+.menu {
+	color: black;
+}
